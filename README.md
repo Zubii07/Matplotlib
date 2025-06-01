@@ -4,7 +4,9 @@
 
 Welcome to my **Matplotlib Basics** learning repository! 🚀
 
-In this repository, I showcase my journey of learning **Matplotlib**, a widely-used library in Python for creating static, interactive, and animated visualizations. I’ve covered the fundamental concepts of Matplotlib through various problems and examples.
+In this repository, I showcase my journey of learning **Matplotlib**, a widely-used library in Python for creating static, interactive, and animated visualizations. 
+Matplotlib is a low-level plotting library that provides a wide range of features for creating static, interactive, and animated visualizations. It is the most widely used data visualization library in Python, and it is known for its flexibility and power.
+I’ve covered the fundamental concepts of Matplotlib through various problems and examples.
 
 ---
 
